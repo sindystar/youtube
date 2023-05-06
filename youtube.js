@@ -30,7 +30,7 @@ fetch(url)
     
   })
   .then((json) => {
-    // console.log(jason);
+    // console.log(json);
     let items = json.items;
     console.log(items);
 
